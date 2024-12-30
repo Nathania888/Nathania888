@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Nathania888
+- 👀 I’m interested in Financial and Investment Analysis 
+- 🌱 I’m currently learning Business Analytics and Insights
+- 💞️ I’m looking to collaborate on data-driven insights, predictive analytics, or financial modelling
+- 📫 How to reach me ...
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I hate spiders
