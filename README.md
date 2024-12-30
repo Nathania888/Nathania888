@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nathania888
+- 👋 Hi, I’m Nathania Mbeshi
 - 👀 I’m interested in Financial and Investment Analysis 
 - 🌱 I’m currently learning Business Analytics and Insights
 - 💞️ I’m looking to collaborate on data-driven insights, predictive analytics, or financial modelling
