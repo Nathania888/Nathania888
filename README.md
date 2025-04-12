@@ -1,6 +1,6 @@
 # Nathania Mbeshi 
 
-I confirm that all content included in this ePortfolio is my own original work unless otherwise cited. This portfolio has been created for academic and professional development purposes as part of my Business Analytics and Insights program at Centennial College.
+I confirm that all content included in this ePortfolio is my own original work unless otherwise cited. 
 
 ## 👋 Introduction
 
@@ -24,7 +24,7 @@ These demonstrate my analytical and financial skills, which are tailored to my t
 
 | Artifact | Description |
 |---------|-------------|
-| **[SAS Mushroom Study]((https://github.com/user-attachments/files/19716477/Final.Report_MushroomClassification.pdf))** | Did a collaborative analysis to create a guide for poisonous vs non-poisonous mushrooms using SAS Miner. |
+| **[SAS Mushroom Study](https://github.com/user-attachments/files/19716477/Final.Report_MushroomClassification.pdf)** | Did a collaborative analysis to create a guide for poisonous vs non-poisonous mushrooms using SAS Miner. |
 
 ---
 
