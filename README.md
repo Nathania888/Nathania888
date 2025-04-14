@@ -6,8 +6,6 @@ I confirm that all content included in this ePortfolio is my own original work u
 
 Hi! I'm Nathania Mbeshi, a Business Analytics and Financial Economics graduate currently pursuing a Postgraduate Certificate in Business Analytics and Insights at Centennial College. With hands-on experience in financial modeling, data analysis, and investment strategy, I’m passionate about leveraging data to drive smart decision-making.
 
-This ePortfolio highlights the projects and achievements that reflect my capabilities in the finance, telecommunications, and renewable energy sectors. It serves as a platform to showcase my professional growth and share artifacts that align with my target industries.
-
 ## 📄 Resume
 
 **[Click here to view/download my resume](https://github.com/Nathania888/Resume))**  
